@@ -8,4 +8,4 @@ The same version, but with a hunting force and crashing rule added:
 ![Serial Boids, with hunting](https://github.com/hikir1/Boids/blob/main/400x400-50f-200i-serial-animated.gif)
 
 Running the complete algorithm with the same parameters in our MPI/CUDA implementatino on AiMOS, except increasing the flock size to 1024:
-![CUDA boids](https://github.com/hikir1/Boids/blob/main/400x400-50f-200i-serial-animated.gif)
+![CUDA boids](https://github.com/hikir1/Boids/blob/main/400x400-1024f-200i-animated.gif)
